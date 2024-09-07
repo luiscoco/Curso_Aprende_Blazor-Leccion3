@@ -10,14 +10,18 @@
 
 3. Abrir una ventana de comandos "Command Prompt"
 
-4. Comprobar la version de "dotnet CLI". Ejecutar el comando: dotnet --list-sdks
+4. Comprobar la version de "dotnet CLI". Ejecutar el comando:
 
-5. Listamos las plantillas de proyectos de Blazor. Ejecutar el comando: dotnet new list
+```
+dotnet --list-sdks
+```
 
-6. Creamos la carpeta en el disco duro donde ubicar nuestra aplicación.
+7. Listamos las plantillas de proyectos de Blazor. Ejecutar el comando: dotnet new list
+
+8. Creamos la carpeta en el disco duro donde ubicar nuestra aplicación.
    Ejecutar los comandos: md Leccion2 y cd Leccion2
 
-7. Creamos la aplicación Blazor. Ejecutar el comando: dotnet new Blazor
+9. Creamos la aplicación Blazor. Ejecutar el comando: dotnet new Blazor
 
 (OPCIONAL) En lugar de ejecutar los puntos 6. y 7. Otra opción es crear tanto el directorio como la aplicación Blazor con la línea de comandos: 
 dotnet new blazor -n "Leccion2"
