@@ -62,5 +62,5 @@ dotnet run
 
 10. Parar la aplicación. Ejecutar la combinación de teclas: Ctrl+C
 
-##NOTA##: El video youtube de esta Lección2 está disponible en el siguiente vínculo: https://www.youtube.com/watch?v=aVkddRsOx1w&t=49s
+##NOTA: El video youtube de esta Lección2 está disponible en el siguiente vínculo: https://www.youtube.com/watch?v=aVkddRsOx1w&t=49s
 
