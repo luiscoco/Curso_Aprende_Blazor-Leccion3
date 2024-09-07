@@ -16,18 +16,48 @@
 dotnet --list-sdks
 ```
 
-7. Listamos las plantillas de proyectos de Blazor. Ejecutar el comando: dotnet new list
+5. Listamos las plantillas de proyectos de Blazor. Ejecutar el comando:
 
-8. Creamos la carpeta en el disco duro donde ubicar nuestra aplicación.
-   Ejecutar los comandos: md Leccion2 y cd Leccion2
+```
+dotnet new list
+```
 
-9. Creamos la aplicación Blazor. Ejecutar el comando: dotnet new Blazor
+6. Creamos la carpeta en el disco duro donde ubicar nuestra aplicación.
+
+Ejecutar los comandos:
+
+```
+md Leccion2
+```
+   
+y
+
+```
+cd Leccion2
+```
+   
+7. Creamos la aplicación Blazor ejecutando el siguiente comando:
+
+```
+dotnet new Blazor
+```
 
 (OPCIONAL) En lugar de ejecutar los puntos 6. y 7. Otra opción es crear tanto el directorio como la aplicación Blazor con la línea de comandos: 
+
+```
 dotnet new blazor -n "Leccion2"
+```
 
-8. Abrir el proyecto en el VSCode. Ejecutar el comando: code .
+8. Abrir el proyecto en el VSCode. Ejecutar el comando:
 
-9. Ejecutar la aplicación. Ejecutar el comando: dotnet run
+```
+code .
+```
+
+9. Ejecutar la aplicación. Ejecutar el comando:
+
+```
+dotnet run
+```
 
 10. Parar la aplicación. Ejecutar la combinación de teclas: Ctrl+C
