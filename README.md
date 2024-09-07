@@ -2,6 +2,10 @@
 
 # LECCIÓN 2: Crear una aplicación Blazor con VSCode y .NET 8 (dotnet CLI)
 
+**NOTA**: El video youtube de esta Lección2 está disponible en el siguiente vínculo: 
+
+https://www.youtube.com/watch?v=aVkddRsOx1w&t=49s
+
 1. Instalar VSCode
    (https://code.visualstudio.com/)
 
@@ -61,6 +65,4 @@ dotnet run
 ```
 
 10. Parar la aplicación. Ejecutar la combinación de teclas: Ctrl+C
-
-**NOTA**: El video youtube de esta Lección2 está disponible en el siguiente vínculo: https://www.youtube.com/watch?v=aVkddRsOx1w&t=49s
 
