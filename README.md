@@ -2,8 +2,6 @@
 
 # LECCIÓN 3: Crear una aplicación Blazor con VSCode y .NET 8 (.NET CLI)
 
-**NOTA**: El video youtube de esta Lección3 está disponible en el siguiente vínculo: 
-
 1. Instalar VSCode: https://code.visualstudio.com/
 
 3. Instalar el Framework ".NET 8 SDK" para Windows X64: https://dotnet.microsoft.com/es-es/download/dotnet/8.0
