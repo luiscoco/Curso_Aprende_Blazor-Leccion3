@@ -1,6 +1,6 @@
 # CURSO: APRENDE BLAZOR
 
-# LECCIÓN 2: Crear una aplicación Blazor con VSCode y .NET 8 (dotnet CLI)
+# LECCIÓN 3: Crear una aplicación Blazor con VSCode y .NET 8 (.NET CLI)
 
 **NOTA**: El video youtube de esta Lección2 está disponible en el siguiente vínculo: 
 
