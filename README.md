@@ -5,14 +5,16 @@
 **NOTA**: El video youtube de esta Lección3 está disponible en el siguiente vínculo: 
 
 1. Instalar VSCode
+2. 
    (https://code.visualstudio.com/)
 
-2. Instalar el Framework ".NET 8 SDK" para Windows X64
+3. Instalar el Framework ".NET 8 SDK" para Windows X64
+4. 
    (https://dotnet.microsoft.com/es-es/download/dotnet/8.0)
 
-3. Abrir una ventana de comandos "Command Prompt"
+5. Abrir una ventana de comandos "Command Prompt"
 
-4. Comprobar la version de "dotnet CLI". Ejecutar el comando:
+6. Comprobar la version de "dotnet CLI". Ejecutar el comando:
 
 ```
 dotnet --list-sdks
